@@ -12,6 +12,6 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-/*#wall > .slick.wicked{
+div#wall div#tag-4 {
   display: none;
-}*/
+}
